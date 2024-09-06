@@ -17,3 +17,6 @@ File that imports all four JavaScript files correctly.
 
 ex05 W3C validation.
 Your task is to edit the HTML code of the index file so that it passes W3C validation without any errors or warnings.
+<p align="left">
+  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
+</p>
